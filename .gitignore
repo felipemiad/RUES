@@ -1,0 +1,18 @@
+# Archivos de configuración sensibles
+.env
+
+# Archivos generados por el sistema
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de log
+*.log
+
+# Archivos temporales de Jupyter y sistemas
+*.ipynb_checkpoints
+
+# Archivos de compilación
+*.egg-info/
+dist/
+build/
